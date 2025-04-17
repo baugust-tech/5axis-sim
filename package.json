@@ -1,0 +1,16 @@
+{
+  "name": "5axis-codesandbox",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "three": "^0.153.0",
+    "@react-three/fiber": "^8.12.2",
+    "@react-three/drei": "^9.88.6"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
